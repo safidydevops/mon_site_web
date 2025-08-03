@@ -1,2 +1,6 @@
 tmp/*
+<<<<<<< HEAD
 *.txt
+=======
+*.xml
+>>>>>>> 9f66591 (exclusion des fichier xml)
